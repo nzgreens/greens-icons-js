@@ -1,20 +1,23 @@
 {
-    "name": "greens_icons",
-    "version": "0.0.1",
-    "private": true,
-    "authors": [
-	"James Hurford <terrasea@gmail.com>"
-    ],
-    "description": "A set of icons usable in core-icon for use on Green Party related sites",
-    "keywords": [
-	"green-party"
-    ],
-    "license": "AGPL 3.0",
-    "ignore": [
-	"**/.*",
-	"node_modules",
-	"bower_components",
-	"test",
-	"tests"
-    ]
+  "name": "greens_icons",
+  "version": "0.0.1",
+  "private": true,
+  "authors": [
+    "James Hurford <terrasea@gmail.com>"
+  ],
+  "description": "A set of icons usable in core-icon for use on Green Party related sites",
+  "keywords": [
+    "green-party"
+  ],
+  "license": "AGPL 3.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "core-iconset-svg": "Polymer/core-iconset-svg#master"
+  }
 }
