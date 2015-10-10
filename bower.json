@@ -18,6 +18,10 @@
     "tests"
   ],
   "dependencies": {
-    "core-iconset-svg": "Polymer/core-iconset-svg#master"
+    "iron-iconset-svg": "PolymerElements/iron-iconset-svg#~1.0.6",
+    "iron-icons": "PolymerElements/iron-icons#~1.0.4"
+  },
+  "resolutions": {
+    "polymer": "^1.0.0"
   }
 }
